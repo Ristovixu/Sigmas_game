@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0f0d58f-8825-4b45-b44d-54c87709e78d" name="Changes" comment="" />
+    <list default="true" id="d0f0d58f-8825-4b45-b44d-54c87709e78d" name="Changes" comment="1.0">
+      <change beforePath="$USER_HOME$/AppData/Local/Temp/Game.py197277341684926284/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Temp/Game.py197277341684926284/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/AppData/Local/Temp/Game.py197277341684926284/.idea" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ristovixu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ristovixu/Sigmas_game",
+    "accountId": "e6bc2970-7fe0-4dce-8365-5bf6ca9bf78f"
+  }
+}]]></component>
   <component name="OpenProjectSettingsState">
     <option name="locatedInTempDirectory" value="true" />
   </component>
@@ -27,6 +44,7 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2sXBKJNv8txjdIap2CgI359YQaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,8 +54,9 @@
     "Python.Game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Games",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738591974837</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1739860685111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739860685111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>
